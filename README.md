@@ -2,7 +2,7 @@
 
 ### 📊 Project Overview
 This project analyzes global search trends using **Google Trends data** through the **PyTrends** library.  
-By changing a single keyword, you can explore search interest across countries, visualize top regions, compare multiple keywords, and track interest over time — all powered by Python.
+By changing a single keyword, you can explore search interest across countries, visualize top regions, compare multiple keywords, and track interest over time all with Python.
 
 ---
 
